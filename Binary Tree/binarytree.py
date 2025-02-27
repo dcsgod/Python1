@@ -32,8 +32,8 @@ def print_binary_tree(root):
     print_binary_tree(root.left)
     print_binary_tree(root.right)
 
-from predefinedbinarytree import predefined_binary_tree_inputs
+#from predefinedbinarytree import predefined_binary_tree_inputs
 
-root1, root2, root3 = predefined_binary_tree_inputs()
+#root1, root2, root3 = predefined_binary_tree_inputs()
 
-print_binary_tree(root1)
+#print_binary_tree(root1)
